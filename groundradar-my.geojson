@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "groundradar-my",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+    { "type": "Feature", "properties": { "ObjectID": 0, "Name": "Weather Radar Subang", "Freq": "2720 Mhz", "PRA (sec)": "30" }, "geometry": { "type": "Point", "coordinates": [ 101.567576, 3.137026 ] } },
+    { "type": "Feature", "properties": { "ObjectID": 1, "Name": "KLIA Weather Radar", "Freq": "2860 Mhz", "PRA (sec)": "15 & 20" }, "geometry": { "type": "Point", "coordinates": [ 101.674374, 2.853302 ] } },
+    { "type": "Feature", "properties": { "ObjectID": 2, "Name": "Kluang Weather Radar MY2818", "Freq": "2800 Mhz", "PRA (sec)": "15" }, "geometry": { "type": "Point", "coordinates": [ 103.316682, 2.014672 ] } },
+    { "type": "Feature", "properties": { "ObjectID": 3, "Name": "TUDM Bkt Lunchu", "Freq": "3230 Mhz", "PRA (sec)": "2" }, "geometry": { "type": "Point", "coordinates": [ 103.847837, 1.512358 ] } },
+    { "type": "Feature", "properties": { "ObjectID": 4, "Name": "RSS Pengerang", "Freq": "9738 Mhz", "PRA (sec)": "1.7" }, "geometry": { "type": "Point", "coordinates": [ 104.100397, 1.377083 ] } },
+    { "type": "Feature", "properties": { "ObjectID": 5, "Name": "RSS Cape Rachado", "Freq": "3056 Mhz", "PRA (sec)": "4.8" }, "geometry": { "type": "Point", "coordinates": [ 101.856824, 2.408302 ] } },
+    { "type": "Feature", "properties": { "ObjectID": 6, "Name": "SMR KLIA 2", "Freq": "9335 Mhz", "PRA (sec)": "1" }, "geometry": { "type": "Point", "coordinates": [ 101.684465, 2.745713 ] } },
+    { "type": "Feature", "properties": { "ObjectID": 7, "Name": "ASR KLIA 2", "Freq": "2736 & 2855 Mhz", "PRA (sec)": "1" }, "geometry": { "type": "Point", "coordinates": [ 101.684465, 2.745713 ] } },
+    { "type": "Feature", "properties": { "ObjectID": 8, "Name": "ASR Subang", "Freq": "2770 Mhz", "PRA (sec)": "3.7" }, "geometry": { "type": "Point", "coordinates": [ 101.5233074, 2.74713 ] } },
+	{ "type": "Feature", "properties": { "ObjectID": 9, "Name": "Radar Bukit Gombak", "Freq": "1341 Mhz" }, "geometry": { "type": "Point", "coordinates": [ 103.847837, 1.512358 ] } },
+	{ "type": "Feature", "properties": { "ObjectID": 10, "Name": "Radar Pulau Tekong 1", "Freq": "1360 Mhz" }, "geometry": { "type": "Point", "coordinates": [ 103.987745, 1.328994 ] } },
+	{ "type": "Feature", "properties": { "ObjectID": 11, "Name": "Radar Pulau Tekong 2", "Freq": "1230 Mhz" }, "geometry": { "type": "Point", "coordinates": [ 103.987745, 1.328994 ] } },
+	{ "type": "Feature", "properties": { "ObjectID": 12, "Name": "AN/FPS-117 3D air Search Radar", "Freq": "2970/9720 Mhz" }, "geometry": { "type": "Point", "coordinates": [ 104.408010, 1.330499 ] } },
+	{ "type": "Feature", "properties": { "ObjectID": 13, "Name": "ASR Radar", "Freq": "2765 Mhz" }, "geometry": { "type": "Point", "coordinates": [ 103.987574, 1.331845 ] } },
+	{ "type": "Feature", "properties": { "ObjectID": 14, "Name": "Changi Weather Radar MDWR SG2446", "Freq": "2720 Mhz" }, "geometry": { "type": "Point", "coordinates": [ 103.970826, 1.349037 ] } },
+	{ "type": "Feature", "properties": { "ObjectID": 15, "Name": "AN/FPS-117 3D air Search Radar", "Freq": "1285/1300 Mhz" }, "geometry": { "type": "Point", "coordinates": [ 103.666754, 1.333897 ] } }
+]
+}
